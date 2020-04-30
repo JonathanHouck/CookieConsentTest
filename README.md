@@ -1,2 +1,0 @@
-# CookieConsentTest
-Created with CodeSandbox
